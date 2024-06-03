@@ -55,51 +55,51 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="湖北移动高清",CGTN纪录
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 group-title="IPV6 高码率",CCTV1
+#EXTINF:-1 group-title="高码率IPV6",CCTV1
 rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv1_CR
-#EXTINF:-1 group-title="IPV6 高码率",CCTV1
+#EXTINF:-1 group-title="高码率IPV6",CCTV1
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?
-#EXTINF:-1 group-title="IPV6 高码率",CCTV2
+#EXTINF:-1 group-title="高码率IPV6",CCTV2
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000372/index.m3u8?
-#EXTINF:-1 group-title="IPV6 高码率",CCTV2
+#EXTINF:-1 group-title="高码率IPV6",CCTV2
 rtsp://[2409:8087:2001:20:2800:0:df6e:eb1a]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv2_CR
-#EXTINF:-1 group-title="IPV6 高码率",CCTV3
+#EXTINF:-1 group-title="高码率IPV6",CCTV3
 rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv3_CR
-#EXTINF:-1 group-title="IPV6 高码率",CCTV4
+#EXTINF:-1 group-title="高码率IPV6",CCTV4
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000485/index.m3u8?
-#EXTINF:-1 group-title="IPV6 高码率",CCTV4
+#EXTINF:-1 group-title="高码率IPV6",CCTV4
 rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv4_CR
-#EXTINF:-1 group-title="IPV6 高码率",CCTV5
+#EXTINF:-1 group-title="高码率IPV6",CCTV5
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000376/index.m3u8?
-#EXTINF:-1 group-title="IPV6 高码率",CCTV5
+#EXTINF:-1 group-title="高码率IPV6",CCTV5
 rtsp://[2409:8087:2001:20:2800:0:df6e:eb20]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv5_CR
-#EXTINF:-1 group-title="IPV6 高码率",CCTV6
+#EXTINF:-1 group-title="高码率IPV6",CCTV6
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000379/index.m3u8?IAS
-#EXTINF:-1 group-title="IPV6 高码率",CCTV7
+#EXTINF:-1 group-title="高码率IPV6",CCTV7
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000380/index.m3u8?
-#EXTINF:-1 group-title="IPV6 高码率",CCTV8
+#EXTINF:-1 group-title="高码率IPV6",CCTV8
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000371/index.m3u8?IAS
-#EXTINF:-1 group-title="IPV6 高码率",CCTV9
+#EXTINF:-1 group-title="高码率IPV6",CCTV9
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000373/index.m3u8?
-#EXTINF:-1 group-title="IPV6 高码率",CCTV10
+#EXTINF:-1 group-title="高码率IPV6",CCTV10
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000375/index.m3u8?
-#EXTINF:-1 group-title="IPV6 高码率",CCTV11
+#EXTINF:-1 group-title="高码率IPV6",CCTV11
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000497/index.m3u8?
-#EXTINF:-1 group-title="IPV6 高码率",CCTV12
+#EXTINF:-1 group-title="高码率IPV6",CCTV12
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000377/index.m3u8?
-#EXTINF:-1 group-title="IPV6 高码率",CCTV13
+#EXTINF:-1 group-title="高码率IPV6",CCTV13
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000516/index.m3u8?
-#EXTINF:-1 group-title="IPV6 高码率",CCTV14
+#EXTINF:-1 group-title="高码率IPV6",CCTV14
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000378/index.m3u8?
-#EXTINF:-1 group-title="IPV6 高码率",CCTV15
+#EXTINF:-1 group-title="高码率IPV6",CCTV15
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000501/index.m3u8?
 #EXTINF:-1 group-title="IPV6 高码率",CCTV16
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 group-title="IPV6 高码率",CCTV17
+#EXTINF:-1 group-title="高码率IPV6",CCTV17
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000494/index.m3u8?
-#EXTINF:-1 group-title="IPV6 高码率",CCTV5+
+#EXTINF:-1 group-title="高码率IPV6",CCTV5+
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000132/index.m3u8?
-#EXTINF:-1 group-title="IPV6 高码率",CCTV5+
+#EXTINF:-1 group-title="高码率IPV6",CCTV5+
 rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv05plus_CR
 #EXTINF:-1,香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
