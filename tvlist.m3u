@@ -36,11 +36,9 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8
 #EXTINF:-1 group-title="普通高清",CCTV-17
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
 #EXTINF:-1 group-title="普通高清",CCTV4K
-http://159.75.85.63:5679/cctv4k.php
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 group-title="普通高清",CCTV兵器科技
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGKB9zm%2BIxepVqZYZm7RAv244Kkb0RUYfm4%2FqM8nid95yfI6je%2Fgd5aFLyZ9USd3KbA
-#EXTINF:-1 group-title="普通高清",CCTV电视指南
-http://120.233.184.248/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
 #EXTINF:-1 group-title="普通高清",CCTV第一剧场
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIg5Jm9ufDm6djkkrhWP0zlHbXMBq03w%2FgOHENZxE4ay%2BEXqK0XzFFWJtPAReIvdhE
 #EXTINF:-1 group-title="普通高清",CCTV风云足球
