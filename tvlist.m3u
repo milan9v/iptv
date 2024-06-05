@@ -205,17 +205,13 @@ http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 #EXTINF:-1 group-title="港澳台",澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰中文
-https://z88.ubtvfans.com/live/rx1/2812/1ab4a96e4b23851cc791d361effb015a/index.m3u8
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰资讯
-https://z88.ubtvfans.com/live/rx1/2810/babd6519bebc0baac3da4c6a72c8351e/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰香港
-https://z88.ubtvfans.com/live/rx3/2292/45ceb0f863d4b877269f3c784ff16f30/index.m3u8
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰电影
 http://60.4.9.246:8888/udp/239.254.201.1:5214
-#EXTINF:-1 group-title="港澳台",翡翠台
-https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
 #EXTINF:-1 group-title="港澳台",明珠台
-https://z88.ubtvfans.com/live/rx1/2437/43f3e7d06eeb53f3057cb2780fd11a50/index.m3u8
+http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
 #EXTINF:-1 group-title="港澳台",无线新闻
 http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 #EXTINF:-1 group-title="港澳台",澳门Macau
